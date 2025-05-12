@@ -1,5 +1,6 @@
 
-# Selected Papers on IEEE Xplore
+
+# Selected Papers on IEEE Xplore and ScienceDirect
 
 1. **Title:** [Adaptive Fault-Tolerant Strategy for Latency-Aware IoT Application Executing in Edge Computing Environment](https://doi.org/10.1109/JIOT.2022.3144026)  
    **Authors:** Muhammad Mudassar; Yanlong Zhai; Liao Lejian  
@@ -36,37 +37,37 @@
    **DOI:** 10.1109/ICPES53652.2021.9683882  
    **Keywords:** Wireless communication,Temperature sensors,Shafts,Wireless sensor networks,Ad hoc networks,Sensor systems,Sensors  
 
-6. **Title:** [Paper Title](https://doi.org/link-to-paper)  
-   **Authors:** Author Name, Author Name  
-   **Published in:** Journal/Conference Name, Vol(Issue), pp. XX-XX  
-   **Year:** 20XX  
-   **DOI:** 10.XXXX/XXXXX  
-   **Keywords:** #keyword1 #keyword2 #keyword3  
+6. **Title:** [Agricultural consumer Internet of Things devices: Methods for optimizing data aggregation](https://doi.org/10.1016/j.aej.2025.03.134)  
+   **Authors:** Hanan Abdullah Mengash; Hany Mahgoub; Asma Alshuhail; Abdulbasit A.  Darem; Jihen Majdoubi; Ayman Yafoz; Raed Alsini; Omar Alghushairy  
+   **Published in:** 2025 Alexandria Engineering Journal, Vol:125, pp. 692-699  
+   **Year:** 2025  
+   **DOI:** 10.1016/j.aej.2025.03.134  
+   **Keywords:** Genetic algorithm, Artificial Bee Colony Optimization, Ant Lion Optimization, Internet of Things Algorithm, Data aggregation, Hybrid model, Wireless sensor network  
 
-7. **Title:** [Paper Title](https://doi.org/link-to-paper)  
-   **Authors:** Author Name, Author Name  
-   **Published in:** Journal/Conference Name, Vol(Issue), pp. XX-XX  
-   **Year:** 20XX  
-   **DOI:** 10.XXXX/XXXXX  
-   **Keywords:** #keyword1 #keyword2 #keyword3  
+7. **Title:** [AS-MPCA: An adaptive scheduling algorithm for industrial Internet of Things based on multi-population co-evolution](https://doi.org/10.1016/j.iot.2025.101596)  
+   **Authors:** Anying Chai; Lei Wang; Chenyang Guo; Mingshi Li; Wanda Yin; Zhaobo  Fang  
+   **Published in:** 2025 Internet of Things, Vol:31, 101596  
+   **Year:** 2025  
+   **DOI:** 10.1016/j.iot.2025.101596  
+   **Keywords:** Industrial Internet of Things, Real-time scheduling, Adaptive routing, Global optimization, QoS  
 
-8. **Title:** [Paper Title](https://doi.org/link-to-paper)  
+8. **Title:** [Dynamic cluster-based cooperative cache management at the network edges in NDN-based Internet of Things](https://doi.org/10.1016/j.aej.2025.03.131)  
    **Authors:** Author Name, Author Name  
-   **Published in:** Journal/Conference Name, Vol(Issue), pp. XX-XX  
-   **Year:** 20XX  
-   **DOI:** 10.XXXX/XXXXX  
-   **Keywords:** #keyword1 #keyword2 #keyword3  
+   **Published in:** Alexandria Engineering Journal, Vol:125, pp. 297-310  
+   **Year:** 2025  
+   **DOI:** 10.1016/j.aej.2025.03.131  
+   **Keywords:** Caching; Internet of Things; Information-centric networking; Named data networking  
 
-9. **Title:** [Paper Title](https://doi.org/link-to-paper)  
-   **Authors:** Author Name, Author Name  
-   **Published in:** Journal/Conference Name, Vol(Issue), pp. XX-XX  
-   **Year:** 20XX  
-   **DOI:** 10.XXXX/XXXXX  
-   **Keywords:** #keyword1 #keyword2 #keyword3  
+9. **Title:** [BIG-ABAC: Leveraging Big Data for Adaptive, Scalable, and Context-Aware Access Control](https://doi.org/10.32604/cmes.2025.062902)  
+   **Authors:** Sondes Baccouri, Takoua Abdellatif  
+   **Published in:** 2025 Computer Modeling in Engineering and Sciences, Vol:143(Issue 1), pp. 1071-1093  
+   **Year:** 2025  
+   **DOI:** 10.32604/cmes.2025.062902  
+   **Keywords:** ABAC; big data; context-aware; decision trees; adaptive policy; scalability  
 
-10. **Title:** [Paper Title](https://doi.org/link-to-paper)  
-   **Authors:** Author Name, Author Name  
-   **Published in:** Journal/Conference Name, Vol(Issue), pp. XX-XX  
-   **Year:** 20XX  
-   **DOI:** 10.XXXX/XXXXX  
-   **Keywords:** #keyword1 #keyword2 #keyword3  
+10. **Title:** [Evaluation method of e-government audit information based on big data analysis](https://doi.org/10.1016/j.sasc.2025.200256)  
+   **Authors:** Jingui He, Hansi Ya  
+   **Published in:** 2025 Systems and Soft Computing, Vol:7, 200256  
+   **Year:** 2025  
+   **DOI:** 10.1016/j.sasc.2025.200256  
+   **Keywords:** E-government; Audit information; Big data; Random Forest algorithm; Parallel operation  
